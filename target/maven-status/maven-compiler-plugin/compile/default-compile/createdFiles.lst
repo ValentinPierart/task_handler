@@ -1,0 +1,9 @@
+com/taskmaster/taskhandler/UserEntity.class
+com/taskmaster/taskhandler/UserRepository.class
+com/taskmaster/taskhandler/TaskHandlerApplication.class
+com/taskmaster/taskhandler/UserEntity$UserEntityBuilderImpl.class
+com/taskmaster/taskhandler/model/GroupTask.class
+com/taskmaster/taskhandler/UserEntity$UserEntityBuilder.class
+com/taskmaster/taskhandler/repository/TaskRepository.class
+com/taskmaster/taskhandler/DatabaseLoader.class
+com/taskmaster/taskhandler/model/Task.class
