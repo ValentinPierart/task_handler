@@ -1,7 +1,8 @@
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/model/GroupTask.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/UserEntity.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/TaskHandlerApplication.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/repository/TaskRepository.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/UserRepository.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/DatabaseLoader.java
-/home/valentin/Documents/Perso/taskhandler/src/main/java/com/taskmaster/taskhandler/model/Task.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\repository\UserRepository.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\DatabaseLoader.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\controller\UserController.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\TaskHandlerApplication.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\model\GroupTask.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\model\Task.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\model\UserEntity.java
+C:\dev\Java\task_handler\src\main\java\com\taskmaster\taskhandler\repository\TaskRepository.java
